@@ -4,7 +4,7 @@ I also wanted to finish my idea for the workout game that I thought of. Remember
 
 The purpose of Phase 1 is to prove that we can **collect real data, store it correctly, protect it, and retrieve it through our system.**
 
-
+GUYS LEARN HOW TO USE GIT AND GITHUB! IT WILL HELP YOU IN THE LONG TERM! ONCE YOU GUYS ARE READY PUSH YOUR BRANCH AND I WILL REVIEW YOUR CODE
 
 **Dariush and Darius** will make an sql table for the Lakers, Rockets, Thunder, Spurs, and Timberwolves. Store player and game information of the last 5 years. Specific information will be discussed later
 
