@@ -1,4 +1,4 @@
-**Phase 1**
+****Phase 1****
 
 I also wanted to finish my idea for the workout game that I thought of. Remember you would go to gym work out and if you got stronger then you character got stronger. Lets implement the prediction with basketball and stocks in it too. How you ask? We will discuss this later.
 
